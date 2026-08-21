@@ -4,6 +4,13 @@
 From rats and primates to AI.* Preprints.org.
 [doi:10.20944/preprints202608.1095.v1](https://doi.org/10.20944/preprints202608.1095.v1)
 
+**Author:** Nathan M. Thornhill, [ORCID 0009-0009-3161-528X](https://orcid.org/0009-0009-3161-528X)
+· Institute for Complexity Science and Advanced Computing (ICSAC)
+
+**The deposited bundle this repository mirrors:**
+[preprints.org/manuscript/202608.1095/v1](https://www.preprints.org/manuscript/202608.1095/v1)
+(supplementary material). Note that only the versioned `.v1` form of the DOI resolves.
+
 This repository is the supplementary material deposited with that preprint, kept here as the
 maintained copy. The preprint is the citable record of the study; cite it, not this repository.
 The deposited version of record does not link back here, so this direction is the only one.
