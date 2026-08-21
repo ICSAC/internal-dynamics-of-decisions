@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the preprint it accompanies."
+title: "Recurrent-versus-input dynamics of decision commitment across cortex and AI models"
+abstract: >-
+  Analysis code, result files and both pre-registrations for a reanalysis of public
+  rodent, primate and AI-model recordings using an input-aware dynamical demix.
+authors:
+  - family-names: Thornhill
+    given-names: Nathan M.
+    orcid: "https://orcid.org/0009-0009-3161-528X"
+    affiliation: "Institute for Complexity Science and Advanced Computing (ICSAC)"
+license: MIT
+repository-code: "https://github.com/ICSAC/internal-dynamics-of-decisions"
+preferred-citation:
+  type: article
+  title: "The Internal Dynamics of Decisions: From rats and primates to AI"
+  authors:
+    - family-names: Thornhill
+      given-names: Nathan M.
+      orcid: "https://orcid.org/0009-0009-3161-528X"
+  year: 2026
+  doi: "10.20944/preprints202608.1095.v1"
+  url: "https://doi.org/10.20944/preprints202608.1095.v1"

@@ -1,0 +1,23 @@
+FREEZE.txt — computation-matched control (CMC)
+Frozen at: 2026-06-30T22:05:47Z
+Frozen by: the author, on a GPU compute node, before any dynamical computation.
+
+This freeze precedes any sdmdc_dom / autonomy_index / flow_balance / settling / rollout
+computation on trained networks. Training + matched-accuracy confirmation (pre-freeze-allowed)
+verified all six architectures reach ~0.945 test accuracy (spread <0.006). Demix is run only
+after this file exists. Metric, windows, hypothesis, and decision rule are now immutable.
+
+=== SHA-256 ===
+# Environment identifiers (an internal host address and file paths) were removed for public
+# release; no metric, window, model, decision rule, computation, or result was changed. The
+# pre-registration manifest is registered to an external immutable timestamp (OSF or a public git
+# tag) at submission, which is what establishes the "before results" ordering.
+
+ea085e6e5244a3c84747136f397b32c39f321101f66ccd7c4b958bf03135db2a  PREREG-CMC.md
+2fe2aced49b90e49fc05b16edeff3d737942ae3422f26268c2c5bbc6d3639954  code/task.py
+fb00acfe1bd050846cffaa198f31e3b00460c7a65d721ffe99fd379f91440b9c  code/models.py
+1a250be97ddad678917bc5d1c1861ff4133734505eafc6604dfd326f41d12172  code/train.py
+a0d5daf640d92e3eafb2206bd83a45397e95d5e7312a135793fb55a0baed9730  code/analyze_cmc.py
+c8cd804979ac15651cecf5efcaea76835241c8f72eda37c1083b8a7a7ef19382  code/stats_cmc.py
+# instrument (used UNCHANGED):
+8c998aa130eb3bd0a6ccb2e8dffa8e4b6b3dfb2b61d7e80b5e0a248cf14fa6c0  src/demix.py

@@ -1,0 +1,2210 @@
+[
+{
+"condition": "direct",
+"steps": 0,
+"label": 1,
+"text": "The capital of France is Paris.",
+"key": "France",
+"id": 0
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 0,
+"text": "The capital of France is Amman.",
+"key": "France",
+"id": 1
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 1,
+"text": "The capital of the country home to the Eiffel Tower is Paris.",
+"key": "France",
+"id": 2
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 0,
+"text": "The capital of the country home to the Eiffel Tower is Amman.",
+"key": "France",
+"id": 3
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 1,
+"text": "The capital of France is not Amman.",
+"key": "France",
+"id": 4
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 0,
+"text": "The capital of France is not Paris.",
+"key": "France",
+"id": 5
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 1,
+"text": "The capital of the country home to the Eiffel Tower is not Amman.",
+"key": "France",
+"id": 6
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 0,
+"text": "The capital of the country home to the Eiffel Tower is not Paris.",
+"key": "France",
+"id": 7
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 1,
+"text": "The capital of France, which is a country, is Paris.",
+"key": "France",
+"id": 8
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 0,
+"text": "The capital of France, which is a country, is Amman.",
+"key": "France",
+"id": 9
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 1,
+"text": "The capital of France, home to the Eiffel Tower, is Paris.",
+"key": "France",
+"id": 10
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 0,
+"text": "The capital of France, home to the Eiffel Tower, is Amman.",
+"key": "France",
+"id": 11
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 1,
+"text": "The capital of Italy is Rome.",
+"key": "Italy",
+"id": 12
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 0,
+"text": "The capital of Italy is Moscow.",
+"key": "Italy",
+"id": 13
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 1,
+"text": "The capital of the country home to the Colosseum is Rome.",
+"key": "Italy",
+"id": 14
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 0,
+"text": "The capital of the country home to the Colosseum is Moscow.",
+"key": "Italy",
+"id": 15
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 1,
+"text": "The capital of Italy is not Moscow.",
+"key": "Italy",
+"id": 16
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 0,
+"text": "The capital of Italy is not Rome.",
+"key": "Italy",
+"id": 17
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 1,
+"text": "The capital of the country home to the Colosseum is not Moscow.",
+"key": "Italy",
+"id": 18
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 0,
+"text": "The capital of the country home to the Colosseum is not Rome.",
+"key": "Italy",
+"id": 19
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 1,
+"text": "The capital of Italy, which is a country, is Rome.",
+"key": "Italy",
+"id": 20
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 0,
+"text": "The capital of Italy, which is a country, is Moscow.",
+"key": "Italy",
+"id": 21
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 1,
+"text": "The capital of Italy, home to the Colosseum, is Rome.",
+"key": "Italy",
+"id": 22
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 0,
+"text": "The capital of Italy, home to the Colosseum, is Moscow.",
+"key": "Italy",
+"id": 23
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 1,
+"text": "The capital of Egypt is Cairo.",
+"key": "Egypt",
+"id": 24
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 0,
+"text": "The capital of Egypt is Madrid.",
+"key": "Egypt",
+"id": 25
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 1,
+"text": "The capital of the country home to the Great Pyramid of Giza is Cairo.",
+"key": "Egypt",
+"id": 26
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 0,
+"text": "The capital of the country home to the Great Pyramid of Giza is Madrid.",
+"key": "Egypt",
+"id": 27
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 1,
+"text": "The capital of Egypt is not Madrid.",
+"key": "Egypt",
+"id": 28
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 0,
+"text": "The capital of Egypt is not Cairo.",
+"key": "Egypt",
+"id": 29
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 1,
+"text": "The capital of the country home to the Great Pyramid of Giza is not Madrid.",
+"key": "Egypt",
+"id": 30
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 0,
+"text": "The capital of the country home to the Great Pyramid of Giza is not Cairo.",
+"key": "Egypt",
+"id": 31
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 1,
+"text": "The capital of Egypt, which is a country, is Cairo.",
+"key": "Egypt",
+"id": 32
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 0,
+"text": "The capital of Egypt, which is a country, is Madrid.",
+"key": "Egypt",
+"id": 33
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 1,
+"text": "The capital of Egypt, home to the Great Pyramid of Giza, is Cairo.",
+"key": "Egypt",
+"id": 34
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 0,
+"text": "The capital of Egypt, home to the Great Pyramid of Giza, is Madrid.",
+"key": "Egypt",
+"id": 35
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 1,
+"text": "The capital of China is Beijing.",
+"key": "China",
+"id": 36
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 0,
+"text": "The capital of China is Rome.",
+"key": "China",
+"id": 37
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 1,
+"text": "The capital of the country home to the Great Wall is Beijing.",
+"key": "China",
+"id": 38
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 0,
+"text": "The capital of the country home to the Great Wall is Rome.",
+"key": "China",
+"id": 39
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 1,
+"text": "The capital of China is not Rome.",
+"key": "China",
+"id": 40
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 0,
+"text": "The capital of China is not Beijing.",
+"key": "China",
+"id": 41
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 1,
+"text": "The capital of the country home to the Great Wall is not Rome.",
+"key": "China",
+"id": 42
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 0,
+"text": "The capital of the country home to the Great Wall is not Beijing.",
+"key": "China",
+"id": 43
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 1,
+"text": "The capital of China, which is a country, is Beijing.",
+"key": "China",
+"id": 44
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 0,
+"text": "The capital of China, which is a country, is Rome.",
+"key": "China",
+"id": 45
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 1,
+"text": "The capital of China, home to the Great Wall, is Beijing.",
+"key": "China",
+"id": 46
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 0,
+"text": "The capital of China, home to the Great Wall, is Rome.",
+"key": "China",
+"id": 47
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 1,
+"text": "The capital of India is New Delhi.",
+"key": "India",
+"id": 48
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 0,
+"text": "The capital of India is Cairo.",
+"key": "India",
+"id": 49
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 1,
+"text": "The capital of the country home to the Taj Mahal is New Delhi.",
+"key": "India",
+"id": 50
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 0,
+"text": "The capital of the country home to the Taj Mahal is Cairo.",
+"key": "India",
+"id": 51
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 1,
+"text": "The capital of India is not Cairo.",
+"key": "India",
+"id": 52
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 0,
+"text": "The capital of India is not New Delhi.",
+"key": "India",
+"id": 53
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 1,
+"text": "The capital of the country home to the Taj Mahal is not Cairo.",
+"key": "India",
+"id": 54
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 0,
+"text": "The capital of the country home to the Taj Mahal is not New Delhi.",
+"key": "India",
+"id": 55
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 1,
+"text": "The capital of India, which is a country, is New Delhi.",
+"key": "India",
+"id": 56
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 0,
+"text": "The capital of India, which is a country, is Cairo.",
+"key": "India",
+"id": 57
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 1,
+"text": "The capital of India, home to the Taj Mahal, is New Delhi.",
+"key": "India",
+"id": 58
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 0,
+"text": "The capital of India, home to the Taj Mahal, is Cairo.",
+"key": "India",
+"id": 59
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 1,
+"text": "The capital of Russia is Moscow.",
+"key": "Russia",
+"id": 60
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 0,
+"text": "The capital of Russia is Amsterdam.",
+"key": "Russia",
+"id": 61
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 1,
+"text": "The capital of the country home to the Kremlin is Moscow.",
+"key": "Russia",
+"id": 62
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 0,
+"text": "The capital of the country home to the Kremlin is Amsterdam.",
+"key": "Russia",
+"id": 63
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 1,
+"text": "The capital of Russia is not Amsterdam.",
+"key": "Russia",
+"id": 64
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 0,
+"text": "The capital of Russia is not Moscow.",
+"key": "Russia",
+"id": 65
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 1,
+"text": "The capital of the country home to the Kremlin is not Amsterdam.",
+"key": "Russia",
+"id": 66
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 0,
+"text": "The capital of the country home to the Kremlin is not Moscow.",
+"key": "Russia",
+"id": 67
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 1,
+"text": "The capital of Russia, which is a country, is Moscow.",
+"key": "Russia",
+"id": 68
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 0,
+"text": "The capital of Russia, which is a country, is Amsterdam.",
+"key": "Russia",
+"id": 69
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 1,
+"text": "The capital of Russia, home to the Kremlin, is Moscow.",
+"key": "Russia",
+"id": 70
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 0,
+"text": "The capital of Russia, home to the Kremlin, is Amsterdam.",
+"key": "Russia",
+"id": 71
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 1,
+"text": "The capital of Japan is Tokyo.",
+"key": "Japan",
+"id": 72
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 0,
+"text": "The capital of Japan is Beijing.",
+"key": "Japan",
+"id": 73
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 1,
+"text": "The capital of the country home to Mount Fuji is Tokyo.",
+"key": "Japan",
+"id": 74
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 0,
+"text": "The capital of the country home to Mount Fuji is Beijing.",
+"key": "Japan",
+"id": 75
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 1,
+"text": "The capital of Japan is not Beijing.",
+"key": "Japan",
+"id": 76
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 0,
+"text": "The capital of Japan is not Tokyo.",
+"key": "Japan",
+"id": 77
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 1,
+"text": "The capital of the country home to Mount Fuji is not Beijing.",
+"key": "Japan",
+"id": 78
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 0,
+"text": "The capital of the country home to Mount Fuji is not Tokyo.",
+"key": "Japan",
+"id": 79
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 1,
+"text": "The capital of Japan, which is a country, is Tokyo.",
+"key": "Japan",
+"id": 80
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 0,
+"text": "The capital of Japan, which is a country, is Beijing.",
+"key": "Japan",
+"id": 81
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 1,
+"text": "The capital of Japan, home to Mount Fuji, is Tokyo.",
+"key": "Japan",
+"id": 82
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 0,
+"text": "The capital of Japan, home to Mount Fuji, is Beijing.",
+"key": "Japan",
+"id": 83
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 1,
+"text": "The capital of Greece is Athens.",
+"key": "Greece",
+"id": 84
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 0,
+"text": "The capital of Greece is London.",
+"key": "Greece",
+"id": 85
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 1,
+"text": "The capital of the country home to the Parthenon is Athens.",
+"key": "Greece",
+"id": 86
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 0,
+"text": "The capital of the country home to the Parthenon is London.",
+"key": "Greece",
+"id": 87
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 1,
+"text": "The capital of Greece is not London.",
+"key": "Greece",
+"id": 88
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 0,
+"text": "The capital of Greece is not Athens.",
+"key": "Greece",
+"id": 89
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 1,
+"text": "The capital of the country home to the Parthenon is not London.",
+"key": "Greece",
+"id": 90
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 0,
+"text": "The capital of the country home to the Parthenon is not Athens.",
+"key": "Greece",
+"id": 91
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 1,
+"text": "The capital of Greece, which is a country, is Athens.",
+"key": "Greece",
+"id": 92
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 0,
+"text": "The capital of Greece, which is a country, is London.",
+"key": "Greece",
+"id": 93
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 1,
+"text": "The capital of Greece, home to the Parthenon, is Athens.",
+"key": "Greece",
+"id": 94
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 0,
+"text": "The capital of Greece, home to the Parthenon, is London.",
+"key": "Greece",
+"id": 95
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 1,
+"text": "The capital of Australia is Canberra.",
+"key": "Australia",
+"id": 96
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 0,
+"text": "The capital of Australia is Washington.",
+"key": "Australia",
+"id": 97
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 1,
+"text": "The capital of the country home to the Sydney Opera House is Canberra.",
+"key": "Australia",
+"id": 98
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 0,
+"text": "The capital of the country home to the Sydney Opera House is Washington.",
+"key": "Australia",
+"id": 99
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 1,
+"text": "The capital of Australia is not Washington.",
+"key": "Australia",
+"id": 100
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 0,
+"text": "The capital of Australia is not Canberra.",
+"key": "Australia",
+"id": 101
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 1,
+"text": "The capital of the country home to the Sydney Opera House is not Washington.",
+"key": "Australia",
+"id": 102
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 0,
+"text": "The capital of the country home to the Sydney Opera House is not Canberra.",
+"key": "Australia",
+"id": 103
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 1,
+"text": "The capital of Australia, which is a country, is Canberra.",
+"key": "Australia",
+"id": 104
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 0,
+"text": "The capital of Australia, which is a country, is Washington.",
+"key": "Australia",
+"id": 105
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 1,
+"text": "The capital of Australia, home to the Sydney Opera House, is Canberra.",
+"key": "Australia",
+"id": 106
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 0,
+"text": "The capital of Australia, home to the Sydney Opera House, is Washington.",
+"key": "Australia",
+"id": 107
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 1,
+"text": "The capital of Brazil is Brasilia.",
+"key": "Brazil",
+"id": 108
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 0,
+"text": "The capital of Brazil is Rome.",
+"key": "Brazil",
+"id": 109
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 1,
+"text": "The capital of the country home to the Christ the Redeemer statue is Brasilia.",
+"key": "Brazil",
+"id": 110
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 0,
+"text": "The capital of the country home to the Christ the Redeemer statue is Rome.",
+"key": "Brazil",
+"id": 111
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 1,
+"text": "The capital of Brazil is not Rome.",
+"key": "Brazil",
+"id": 112
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 0,
+"text": "The capital of Brazil is not Brasilia.",
+"key": "Brazil",
+"id": 113
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 1,
+"text": "The capital of the country home to the Christ the Redeemer statue is not Rome.",
+"key": "Brazil",
+"id": 114
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 0,
+"text": "The capital of the country home to the Christ the Redeemer statue is not Brasilia.",
+"key": "Brazil",
+"id": 115
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 1,
+"text": "The capital of Brazil, which is a country, is Brasilia.",
+"key": "Brazil",
+"id": 116
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 0,
+"text": "The capital of Brazil, which is a country, is Rome.",
+"key": "Brazil",
+"id": 117
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 1,
+"text": "The capital of Brazil, home to the Christ the Redeemer statue, is Brasilia.",
+"key": "Brazil",
+"id": 118
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 0,
+"text": "The capital of Brazil, home to the Christ the Redeemer statue, is Rome.",
+"key": "Brazil",
+"id": 119
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 1,
+"text": "The capital of Peru is Lima.",
+"key": "Peru",
+"id": 120
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 0,
+"text": "The capital of Peru is Phnom Penh.",
+"key": "Peru",
+"id": 121
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 1,
+"text": "The capital of the country home to Machu Picchu is Lima.",
+"key": "Peru",
+"id": 122
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 0,
+"text": "The capital of the country home to Machu Picchu is Phnom Penh.",
+"key": "Peru",
+"id": 123
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 1,
+"text": "The capital of Peru is not Phnom Penh.",
+"key": "Peru",
+"id": 124
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 0,
+"text": "The capital of Peru is not Lima.",
+"key": "Peru",
+"id": 125
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 1,
+"text": "The capital of the country home to Machu Picchu is not Phnom Penh.",
+"key": "Peru",
+"id": 126
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 0,
+"text": "The capital of the country home to Machu Picchu is not Lima.",
+"key": "Peru",
+"id": 127
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 1,
+"text": "The capital of Peru, which is a country, is Lima.",
+"key": "Peru",
+"id": 128
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 0,
+"text": "The capital of Peru, which is a country, is Phnom Penh.",
+"key": "Peru",
+"id": 129
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 1,
+"text": "The capital of Peru, home to Machu Picchu, is Lima.",
+"key": "Peru",
+"id": 130
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 0,
+"text": "The capital of Peru, home to Machu Picchu, is Phnom Penh.",
+"key": "Peru",
+"id": 131
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 1,
+"text": "The capital of Jordan is Amman.",
+"key": "Jordan",
+"id": 132
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 0,
+"text": "The capital of Jordan is Tokyo.",
+"key": "Jordan",
+"id": 133
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 1,
+"text": "The capital of the country home to the ruins of Petra is Amman.",
+"key": "Jordan",
+"id": 134
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 0,
+"text": "The capital of the country home to the ruins of Petra is Tokyo.",
+"key": "Jordan",
+"id": 135
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 1,
+"text": "The capital of Jordan is not Tokyo.",
+"key": "Jordan",
+"id": 136
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 0,
+"text": "The capital of Jordan is not Amman.",
+"key": "Jordan",
+"id": 137
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 1,
+"text": "The capital of the country home to the ruins of Petra is not Tokyo.",
+"key": "Jordan",
+"id": 138
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 0,
+"text": "The capital of the country home to the ruins of Petra is not Amman.",
+"key": "Jordan",
+"id": 139
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 1,
+"text": "The capital of Jordan, which is a country, is Amman.",
+"key": "Jordan",
+"id": 140
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 0,
+"text": "The capital of Jordan, which is a country, is Tokyo.",
+"key": "Jordan",
+"id": 141
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 1,
+"text": "The capital of Jordan, home to the ruins of Petra, is Amman.",
+"key": "Jordan",
+"id": 142
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 0,
+"text": "The capital of Jordan, home to the ruins of Petra, is Tokyo.",
+"key": "Jordan",
+"id": 143
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 1,
+"text": "The capital of England is London.",
+"key": "England",
+"id": 144
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 0,
+"text": "The capital of England is Rome.",
+"key": "England",
+"id": 145
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 1,
+"text": "The capital of the country home to Big Ben is London.",
+"key": "England",
+"id": 146
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 0,
+"text": "The capital of the country home to Big Ben is Rome.",
+"key": "England",
+"id": 147
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 1,
+"text": "The capital of England is not Rome.",
+"key": "England",
+"id": 148
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 0,
+"text": "The capital of England is not London.",
+"key": "England",
+"id": 149
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 1,
+"text": "The capital of the country home to Big Ben is not Rome.",
+"key": "England",
+"id": 150
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 0,
+"text": "The capital of the country home to Big Ben is not London.",
+"key": "England",
+"id": 151
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 1,
+"text": "The capital of England, which is a country, is London.",
+"key": "England",
+"id": 152
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 0,
+"text": "The capital of England, which is a country, is Rome.",
+"key": "England",
+"id": 153
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 1,
+"text": "The capital of England, home to Big Ben, is London.",
+"key": "England",
+"id": 154
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 0,
+"text": "The capital of England, home to Big Ben, is Rome.",
+"key": "England",
+"id": 155
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 1,
+"text": "The capital of Spain is Madrid.",
+"key": "Spain",
+"id": 156
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 0,
+"text": "The capital of Spain is Cairo.",
+"key": "Spain",
+"id": 157
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 1,
+"text": "The capital of the country home to the Sagrada Familia is Madrid.",
+"key": "Spain",
+"id": 158
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 0,
+"text": "The capital of the country home to the Sagrada Familia is Cairo.",
+"key": "Spain",
+"id": 159
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 1,
+"text": "The capital of Spain is not Cairo.",
+"key": "Spain",
+"id": 160
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 0,
+"text": "The capital of Spain is not Madrid.",
+"key": "Spain",
+"id": 161
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 1,
+"text": "The capital of the country home to the Sagrada Familia is not Cairo.",
+"key": "Spain",
+"id": 162
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 0,
+"text": "The capital of the country home to the Sagrada Familia is not Madrid.",
+"key": "Spain",
+"id": 163
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 1,
+"text": "The capital of Spain, which is a country, is Madrid.",
+"key": "Spain",
+"id": 164
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 0,
+"text": "The capital of Spain, which is a country, is Cairo.",
+"key": "Spain",
+"id": 165
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 1,
+"text": "The capital of Spain, home to the Sagrada Familia, is Madrid.",
+"key": "Spain",
+"id": 166
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 0,
+"text": "The capital of Spain, home to the Sagrada Familia, is Cairo.",
+"key": "Spain",
+"id": 167
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 1,
+"text": "The capital of Germany is Berlin.",
+"key": "Germany",
+"id": 168
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 0,
+"text": "The capital of Germany is Madrid.",
+"key": "Germany",
+"id": 169
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 1,
+"text": "The capital of the country home to the Brandenburg Gate is Berlin.",
+"key": "Germany",
+"id": 170
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 0,
+"text": "The capital of the country home to the Brandenburg Gate is Madrid.",
+"key": "Germany",
+"id": 171
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 1,
+"text": "The capital of Germany is not Madrid.",
+"key": "Germany",
+"id": 172
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 0,
+"text": "The capital of Germany is not Berlin.",
+"key": "Germany",
+"id": 173
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 1,
+"text": "The capital of the country home to the Brandenburg Gate is not Madrid.",
+"key": "Germany",
+"id": 174
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 0,
+"text": "The capital of the country home to the Brandenburg Gate is not Berlin.",
+"key": "Germany",
+"id": 175
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 1,
+"text": "The capital of Germany, which is a country, is Berlin.",
+"key": "Germany",
+"id": 176
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 0,
+"text": "The capital of Germany, which is a country, is Madrid.",
+"key": "Germany",
+"id": 177
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 1,
+"text": "The capital of Germany, home to the Brandenburg Gate, is Berlin.",
+"key": "Germany",
+"id": 178
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 0,
+"text": "The capital of Germany, home to the Brandenburg Gate, is Madrid.",
+"key": "Germany",
+"id": 179
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 1,
+"text": "The capital of Mexico is Mexico City.",
+"key": "Mexico",
+"id": 180
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 0,
+"text": "The capital of Mexico is Madrid.",
+"key": "Mexico",
+"id": 181
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 1,
+"text": "The capital of the country home to Chichen Itza is Mexico City.",
+"key": "Mexico",
+"id": 182
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 0,
+"text": "The capital of the country home to Chichen Itza is Madrid.",
+"key": "Mexico",
+"id": 183
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 1,
+"text": "The capital of Mexico is not Madrid.",
+"key": "Mexico",
+"id": 184
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 0,
+"text": "The capital of Mexico is not Mexico City.",
+"key": "Mexico",
+"id": 185
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 1,
+"text": "The capital of the country home to Chichen Itza is not Madrid.",
+"key": "Mexico",
+"id": 186
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 0,
+"text": "The capital of the country home to Chichen Itza is not Mexico City.",
+"key": "Mexico",
+"id": 187
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 1,
+"text": "The capital of Mexico, which is a country, is Mexico City.",
+"key": "Mexico",
+"id": 188
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 0,
+"text": "The capital of Mexico, which is a country, is Madrid.",
+"key": "Mexico",
+"id": 189
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 1,
+"text": "The capital of Mexico, home to Chichen Itza, is Mexico City.",
+"key": "Mexico",
+"id": 190
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 0,
+"text": "The capital of Mexico, home to Chichen Itza, is Madrid.",
+"key": "Mexico",
+"id": 191
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 1,
+"text": "The capital of Turkey is Ankara.",
+"key": "Turkey",
+"id": 192
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 0,
+"text": "The capital of Turkey is Cairo.",
+"key": "Turkey",
+"id": 193
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 1,
+"text": "The capital of the country home to the Hagia Sophia is Ankara.",
+"key": "Turkey",
+"id": 194
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 0,
+"text": "The capital of the country home to the Hagia Sophia is Cairo.",
+"key": "Turkey",
+"id": 195
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 1,
+"text": "The capital of Turkey is not Cairo.",
+"key": "Turkey",
+"id": 196
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 0,
+"text": "The capital of Turkey is not Ankara.",
+"key": "Turkey",
+"id": 197
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 1,
+"text": "The capital of the country home to the Hagia Sophia is not Cairo.",
+"key": "Turkey",
+"id": 198
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 0,
+"text": "The capital of the country home to the Hagia Sophia is not Ankara.",
+"key": "Turkey",
+"id": 199
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 1,
+"text": "The capital of Turkey, which is a country, is Ankara.",
+"key": "Turkey",
+"id": 200
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 0,
+"text": "The capital of Turkey, which is a country, is Cairo.",
+"key": "Turkey",
+"id": 201
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 1,
+"text": "The capital of Turkey, home to the Hagia Sophia, is Ankara.",
+"key": "Turkey",
+"id": 202
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 0,
+"text": "The capital of Turkey, home to the Hagia Sophia, is Cairo.",
+"key": "Turkey",
+"id": 203
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 1,
+"text": "The capital of Cambodia is Phnom Penh.",
+"key": "Cambodia",
+"id": 204
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 0,
+"text": "The capital of Cambodia is Athens.",
+"key": "Cambodia",
+"id": 205
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 1,
+"text": "The capital of the country home to Angkor Wat is Phnom Penh.",
+"key": "Cambodia",
+"id": 206
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 0,
+"text": "The capital of the country home to Angkor Wat is Athens.",
+"key": "Cambodia",
+"id": 207
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 1,
+"text": "The capital of Cambodia is not Athens.",
+"key": "Cambodia",
+"id": 208
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 0,
+"text": "The capital of Cambodia is not Phnom Penh.",
+"key": "Cambodia",
+"id": 209
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 1,
+"text": "The capital of the country home to Angkor Wat is not Athens.",
+"key": "Cambodia",
+"id": 210
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 0,
+"text": "The capital of the country home to Angkor Wat is not Phnom Penh.",
+"key": "Cambodia",
+"id": 211
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 1,
+"text": "The capital of Cambodia, which is a country, is Phnom Penh.",
+"key": "Cambodia",
+"id": 212
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 0,
+"text": "The capital of Cambodia, which is a country, is Athens.",
+"key": "Cambodia",
+"id": 213
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 1,
+"text": "The capital of Cambodia, home to Angkor Wat, is Phnom Penh.",
+"key": "Cambodia",
+"id": 214
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 0,
+"text": "The capital of Cambodia, home to Angkor Wat, is Athens.",
+"key": "Cambodia",
+"id": 215
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 1,
+"text": "The capital of Netherlands is Amsterdam.",
+"key": "Netherlands",
+"id": 216
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 0,
+"text": "The capital of Netherlands is Cairo.",
+"key": "Netherlands",
+"id": 217
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 1,
+"text": "The capital of the country home to the Anne Frank House is Amsterdam.",
+"key": "Netherlands",
+"id": 218
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 0,
+"text": "The capital of the country home to the Anne Frank House is Cairo.",
+"key": "Netherlands",
+"id": 219
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 1,
+"text": "The capital of Netherlands is not Cairo.",
+"key": "Netherlands",
+"id": 220
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 0,
+"text": "The capital of Netherlands is not Amsterdam.",
+"key": "Netherlands",
+"id": 221
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 1,
+"text": "The capital of the country home to the Anne Frank House is not Cairo.",
+"key": "Netherlands",
+"id": 222
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 0,
+"text": "The capital of the country home to the Anne Frank House is not Amsterdam.",
+"key": "Netherlands",
+"id": 223
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 1,
+"text": "The capital of Netherlands, which is a country, is Amsterdam.",
+"key": "Netherlands",
+"id": 224
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 0,
+"text": "The capital of Netherlands, which is a country, is Cairo.",
+"key": "Netherlands",
+"id": 225
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 1,
+"text": "The capital of Netherlands, home to the Anne Frank House, is Amsterdam.",
+"key": "Netherlands",
+"id": 226
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 0,
+"text": "The capital of Netherlands, home to the Anne Frank House, is Cairo.",
+"key": "Netherlands",
+"id": 227
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 1,
+"text": "The capital of United States is Washington.",
+"key": "United States",
+"id": 228
+},
+{
+"condition": "direct",
+"steps": 0,
+"label": 0,
+"text": "The capital of United States is Phnom Penh.",
+"key": "United States",
+"id": 229
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 1,
+"text": "The capital of the country home to the Statue of Liberty is Washington.",
+"key": "United States",
+"id": 230
+},
+{
+"condition": "landmark",
+"steps": 1,
+"label": 0,
+"text": "The capital of the country home to the Statue of Liberty is Phnom Penh.",
+"key": "United States",
+"id": 231
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 1,
+"text": "The capital of United States is not Phnom Penh.",
+"key": "United States",
+"id": 232
+},
+{
+"condition": "negation",
+"steps": 1,
+"label": 0,
+"text": "The capital of United States is not Washington.",
+"key": "United States",
+"id": 233
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 1,
+"text": "The capital of the country home to the Statue of Liberty is not Phnom Penh.",
+"key": "United States",
+"id": 234
+},
+{
+"condition": "landmark_neg",
+"steps": 2,
+"label": 0,
+"text": "The capital of the country home to the Statue of Liberty is not Washington.",
+"key": "United States",
+"id": 235
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 1,
+"text": "The capital of United States, which is a country, is Washington.",
+"key": "United States",
+"id": 236
+},
+{
+"condition": "pseudo_hop",
+"steps": 0,
+"label": 0,
+"text": "The capital of United States, which is a country, is Phnom Penh.",
+"key": "United States",
+"id": 237
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 1,
+"text": "The capital of United States, home to the Statue of Liberty, is Washington.",
+"key": "United States",
+"id": 238
+},
+{
+"condition": "var_filler",
+"steps": 0,
+"label": 0,
+"text": "The capital of United States, home to the Statue of Liberty, is Phnom Penh.",
+"key": "United States",
+"id": 239
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 1,
+"wordlen": 3,
+"text": "The word 'cat' has an odd number of letters.",
+"key": "cat",
+"id": 240
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 0,
+"wordlen": 3,
+"text": "The word 'cat' has an even number of letters.",
+"key": "cat",
+"id": 241
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 1,
+"wordlen": 5,
+"text": "The word 'house' has an odd number of letters.",
+"key": "house",
+"id": 242
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 0,
+"wordlen": 5,
+"text": "The word 'house' has an even number of letters.",
+"key": "house",
+"id": 243
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 1,
+"wordlen": 6,
+"text": "The word 'planet' has an even number of letters.",
+"key": "planet",
+"id": 244
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 0,
+"wordlen": 6,
+"text": "The word 'planet' has an odd number of letters.",
+"key": "planet",
+"id": 245
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 1,
+"wordlen": 8,
+"text": "The word 'umbrella' has an even number of letters.",
+"key": "umbrella",
+"id": 246
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 0,
+"wordlen": 8,
+"text": "The word 'umbrella' has an odd number of letters.",
+"key": "umbrella",
+"id": 247
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 1,
+"wordlen": 8,
+"text": "The word 'mountain' has an even number of letters.",
+"key": "mountain",
+"id": 248
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 0,
+"wordlen": 8,
+"text": "The word 'mountain' has an odd number of letters.",
+"key": "mountain",
+"id": 249
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 1,
+"wordlen": 8,
+"text": "The word 'keyboard' has an even number of letters.",
+"key": "keyboard",
+"id": 250
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 0,
+"wordlen": 8,
+"text": "The word 'keyboard' has an odd number of letters.",
+"key": "keyboard",
+"id": 251
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 1,
+"wordlen": 5,
+"text": "The word 'river' has an odd number of letters.",
+"key": "river",
+"id": 252
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 0,
+"wordlen": 5,
+"text": "The word 'river' has an even number of letters.",
+"key": "river",
+"id": 253
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 1,
+"wordlen": 8,
+"text": "The word 'elephant' has an even number of letters.",
+"key": "elephant",
+"id": 254
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 0,
+"wordlen": 8,
+"text": "The word 'elephant' has an odd number of letters.",
+"key": "elephant",
+"id": 255
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 1,
+"wordlen": 8,
+"text": "The word 'triangle' has an even number of letters.",
+"key": "triangle",
+"id": 256
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 0,
+"wordlen": 8,
+"text": "The word 'triangle' has an odd number of letters.",
+"key": "triangle",
+"id": 257
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 1,
+"wordlen": 9,
+"text": "The word 'wonderful' has an odd number of letters.",
+"key": "wonderful",
+"id": 258
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 0,
+"wordlen": 9,
+"text": "The word 'wonderful' has an even number of letters.",
+"key": "wonderful",
+"id": 259
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 1,
+"wordlen": 9,
+"text": "The word 'chocolate' has an odd number of letters.",
+"key": "chocolate",
+"id": 260
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 0,
+"wordlen": 9,
+"text": "The word 'chocolate' has an even number of letters.",
+"key": "chocolate",
+"id": 261
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 1,
+"wordlen": 9,
+"text": "The word 'telephone' has an odd number of letters.",
+"key": "telephone",
+"id": 262
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 0,
+"wordlen": 9,
+"text": "The word 'telephone' has an even number of letters.",
+"key": "telephone",
+"id": 263
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 1,
+"wordlen": 9,
+"text": "The word 'butterfly' has an odd number of letters.",
+"key": "butterfly",
+"id": 264
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 0,
+"wordlen": 9,
+"text": "The word 'butterfly' has an even number of letters.",
+"key": "butterfly",
+"id": 265
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 1,
+"wordlen": 10,
+"text": "The word 'dictionary' has an even number of letters.",
+"key": "dictionary",
+"id": 266
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 0,
+"wordlen": 10,
+"text": "The word 'dictionary' has an odd number of letters.",
+"key": "dictionary",
+"id": 267
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 1,
+"wordlen": 10,
+"text": "The word 'strawberry' has an even number of letters.",
+"key": "strawberry",
+"id": 268
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 0,
+"wordlen": 10,
+"text": "The word 'strawberry' has an odd number of letters.",
+"key": "strawberry",
+"id": 269
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 1,
+"wordlen": 10,
+"text": "The word 'helicopter' has an even number of letters.",
+"key": "helicopter",
+"id": 270
+},
+{
+"condition": "parity",
+"steps": null,
+"label": 0,
+"wordlen": 10,
+"text": "The word 'helicopter' has an odd number of letters.",
+"key": "helicopter",
+"id": 271
+}
+]

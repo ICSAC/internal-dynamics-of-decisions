@@ -1,0 +1,716 @@
+{
+ "n_sessions": 115,
+ "W_bins": 6,
+ "commit_aligned_r2input": [
+  {
+   "center": -0.275,
+   "mean": 0.0305,
+   "sem": 0.0018,
+   "n_sess": 115
+  },
+  {
+   "center": -0.25,
+   "mean": 0.0338,
+   "sem": 0.0019,
+   "n_sess": 115
+  },
+  {
+   "center": -0.225,
+   "mean": 0.0381,
+   "sem": 0.0021,
+   "n_sess": 115
+  },
+  {
+   "center": -0.2,
+   "mean": 0.0437,
+   "sem": 0.0024,
+   "n_sess": 115
+  },
+  {
+   "center": -0.175,
+   "mean": 0.0488,
+   "sem": 0.0026,
+   "n_sess": 115
+  },
+  {
+   "center": -0.15,
+   "mean": 0.0547,
+   "sem": 0.0029,
+   "n_sess": 115
+  },
+  {
+   "center": -0.125,
+   "mean": 0.0618,
+   "sem": 0.0033,
+   "n_sess": 115
+  },
+  {
+   "center": -0.1,
+   "mean": 0.0696,
+   "sem": 0.0038,
+   "n_sess": 115
+  },
+  {
+   "center": -0.075,
+   "mean": 0.073,
+   "sem": 0.0039,
+   "n_sess": 115
+  },
+  {
+   "center": -0.05,
+   "mean": 0.0723,
+   "sem": 0.0034,
+   "n_sess": 115
+  },
+  {
+   "center": -0.025,
+   "mean": 0.0728,
+   "sem": 0.0033,
+   "n_sess": 115
+  },
+  {
+   "center": 0.0,
+   "mean": 0.0755,
+   "sem": 0.0034,
+   "n_sess": 115
+  },
+  {
+   "center": 0.025,
+   "mean": 0.0764,
+   "sem": 0.0033,
+   "n_sess": 115
+  },
+  {
+   "center": 0.05,
+   "mean": 0.0766,
+   "sem": 0.0033,
+   "n_sess": 115
+  },
+  {
+   "center": 0.075,
+   "mean": 0.0769,
+   "sem": 0.0034,
+   "n_sess": 115
+  },
+  {
+   "center": 0.1,
+   "mean": 0.0765,
+   "sem": 0.0034,
+   "n_sess": 115
+  },
+  {
+   "center": 0.125,
+   "mean": 0.0739,
+   "sem": 0.0032,
+   "n_sess": 115
+  },
+  {
+   "center": 0.15,
+   "mean": 0.0742,
+   "sem": 0.0033,
+   "n_sess": 115
+  },
+  {
+   "center": 0.175,
+   "mean": 0.0738,
+   "sem": 0.0033,
+   "n_sess": 115
+  },
+  {
+   "center": 0.2,
+   "mean": 0.0736,
+   "sem": 0.0033,
+   "n_sess": 115
+  },
+  {
+   "center": 0.225,
+   "mean": 0.0718,
+   "sem": 0.0033,
+   "n_sess": 115
+  },
+  {
+   "center": 0.25,
+   "mean": 0.07,
+   "sem": 0.0032,
+   "n_sess": 115
+  },
+  {
+   "center": 0.275,
+   "mean": 0.0689,
+   "sem": 0.0032,
+   "n_sess": 115
+  }
+ ],
+ "commit_aligned_auto": [
+  {
+   "center": -0.275,
+   "mean": 0.2598,
+   "sem": 0.0107,
+   "n_sess": 115
+  },
+  {
+   "center": -0.25,
+   "mean": 0.2583,
+   "sem": 0.0107,
+   "n_sess": 115
+  },
+  {
+   "center": -0.225,
+   "mean": 0.2598,
+   "sem": 0.0104,
+   "n_sess": 115
+  },
+  {
+   "center": -0.2,
+   "mean": 0.2584,
+   "sem": 0.0106,
+   "n_sess": 115
+  },
+  {
+   "center": -0.175,
+   "mean": 0.2593,
+   "sem": 0.0104,
+   "n_sess": 115
+  },
+  {
+   "center": -0.15,
+   "mean": 0.263,
+   "sem": 0.0103,
+   "n_sess": 115
+  },
+  {
+   "center": -0.125,
+   "mean": 0.2671,
+   "sem": 0.0102,
+   "n_sess": 115
+  },
+  {
+   "center": -0.1,
+   "mean": 0.2674,
+   "sem": 0.0103,
+   "n_sess": 115
+  },
+  {
+   "center": -0.075,
+   "mean": 0.2655,
+   "sem": 0.0104,
+   "n_sess": 115
+  },
+  {
+   "center": -0.05,
+   "mean": 0.2641,
+   "sem": 0.0106,
+   "n_sess": 115
+  },
+  {
+   "center": -0.025,
+   "mean": 0.2663,
+   "sem": 0.0107,
+   "n_sess": 115
+  },
+  {
+   "center": 0.0,
+   "mean": 0.2659,
+   "sem": 0.0104,
+   "n_sess": 115
+  },
+  {
+   "center": 0.025,
+   "mean": 0.2658,
+   "sem": 0.0104,
+   "n_sess": 115
+  },
+  {
+   "center": 0.05,
+   "mean": 0.267,
+   "sem": 0.0105,
+   "n_sess": 115
+  },
+  {
+   "center": 0.075,
+   "mean": 0.2701,
+   "sem": 0.0103,
+   "n_sess": 115
+  },
+  {
+   "center": 0.1,
+   "mean": 0.2705,
+   "sem": 0.0103,
+   "n_sess": 115
+  },
+  {
+   "center": 0.125,
+   "mean": 0.2712,
+   "sem": 0.0104,
+   "n_sess": 115
+  },
+  {
+   "center": 0.15,
+   "mean": 0.2739,
+   "sem": 0.0105,
+   "n_sess": 115
+  },
+  {
+   "center": 0.175,
+   "mean": 0.2794,
+   "sem": 0.0106,
+   "n_sess": 115
+  },
+  {
+   "center": 0.2,
+   "mean": 0.2786,
+   "sem": 0.0104,
+   "n_sess": 115
+  },
+  {
+   "center": 0.225,
+   "mean": 0.2793,
+   "sem": 0.0106,
+   "n_sess": 115
+  },
+  {
+   "center": 0.25,
+   "mean": 0.2768,
+   "sem": 0.0105,
+   "n_sess": 115
+  },
+  {
+   "center": 0.275,
+   "mean": 0.2775,
+   "sem": 0.0105,
+   "n_sess": 115
+  }
+ ],
+ "commit_aligned_dom": [
+  {
+   "center": -0.275,
+   "mean": 0.9537,
+   "sem": 0.006,
+   "n_sess": 115
+  },
+  {
+   "center": -0.25,
+   "mean": 0.9786,
+   "sem": 0.0139,
+   "n_sess": 115
+  },
+  {
+   "center": -0.225,
+   "mean": 0.9766,
+   "sem": 0.0113,
+   "n_sess": 115
+  },
+  {
+   "center": -0.2,
+   "mean": 0.9689,
+   "sem": 0.0095,
+   "n_sess": 115
+  },
+  {
+   "center": -0.175,
+   "mean": 1.0014,
+   "sem": 0.0208,
+   "n_sess": 115
+  },
+  {
+   "center": -0.15,
+   "mean": 0.9912,
+   "sem": 0.0124,
+   "n_sess": 115
+  },
+  {
+   "center": -0.125,
+   "mean": 0.9848,
+   "sem": 0.0099,
+   "n_sess": 115
+  },
+  {
+   "center": -0.1,
+   "mean": 0.9799,
+   "sem": 0.0081,
+   "n_sess": 115
+  },
+  {
+   "center": -0.075,
+   "mean": 0.9722,
+   "sem": 0.0063,
+   "n_sess": 115
+  },
+  {
+   "center": -0.05,
+   "mean": 0.9701,
+   "sem": 0.0064,
+   "n_sess": 115
+  },
+  {
+   "center": -0.025,
+   "mean": 0.9826,
+   "sem": 0.0127,
+   "n_sess": 115
+  },
+  {
+   "center": 0.0,
+   "mean": 0.9659,
+   "sem": 0.0069,
+   "n_sess": 115
+  },
+  {
+   "center": 0.025,
+   "mean": 0.9934,
+   "sem": 0.0177,
+   "n_sess": 115
+  },
+  {
+   "center": 0.05,
+   "mean": 0.9972,
+   "sem": 0.0191,
+   "n_sess": 115
+  },
+  {
+   "center": 0.075,
+   "mean": 0.9757,
+   "sem": 0.0142,
+   "n_sess": 115
+  },
+  {
+   "center": 0.1,
+   "mean": 0.9754,
+   "sem": 0.0077,
+   "n_sess": 115
+  },
+  {
+   "center": 0.125,
+   "mean": 0.9745,
+   "sem": 0.0066,
+   "n_sess": 115
+  },
+  {
+   "center": 0.15,
+   "mean": 0.9803,
+   "sem": 0.0067,
+   "n_sess": 115
+  },
+  {
+   "center": 0.175,
+   "mean": 0.9982,
+   "sem": 0.0136,
+   "n_sess": 115
+  },
+  {
+   "center": 0.2,
+   "mean": 0.996,
+   "sem": 0.0106,
+   "n_sess": 115
+  },
+  {
+   "center": 0.225,
+   "mean": 0.9964,
+   "sem": 0.0107,
+   "n_sess": 115
+  },
+  {
+   "center": 0.25,
+   "mean": 0.9948,
+   "sem": 0.0107,
+   "n_sess": 115
+  },
+  {
+   "center": 0.275,
+   "mean": 1.0036,
+   "sem": 0.0126,
+   "n_sess": 115
+  }
+ ],
+ "stim_aligned_r2input": [
+  {
+   "center": 0.075,
+   "mean": 0.009,
+   "sem": 0.0005,
+   "n_sess": 115
+  },
+  {
+   "center": 0.1,
+   "mean": 0.0131,
+   "sem": 0.0008,
+   "n_sess": 115
+  },
+  {
+   "center": 0.125,
+   "mean": 0.0182,
+   "sem": 0.0011,
+   "n_sess": 115
+  },
+  {
+   "center": 0.15,
+   "mean": 0.0234,
+   "sem": 0.0014,
+   "n_sess": 115
+  },
+  {
+   "center": 0.175,
+   "mean": 0.029,
+   "sem": 0.0018,
+   "n_sess": 115
+  },
+  {
+   "center": 0.2,
+   "mean": 0.0351,
+   "sem": 0.0021,
+   "n_sess": 115
+  },
+  {
+   "center": 0.225,
+   "mean": 0.0414,
+   "sem": 0.0024,
+   "n_sess": 115
+  },
+  {
+   "center": 0.25,
+   "mean": 0.047,
+   "sem": 0.0027,
+   "n_sess": 115
+  },
+  {
+   "center": 0.275,
+   "mean": 0.0522,
+   "sem": 0.0028,
+   "n_sess": 115
+  },
+  {
+   "center": 0.3,
+   "mean": 0.0576,
+   "sem": 0.003,
+   "n_sess": 115
+  },
+  {
+   "center": 0.325,
+   "mean": 0.0622,
+   "sem": 0.0032,
+   "n_sess": 115
+  },
+  {
+   "center": 0.35,
+   "mean": 0.0652,
+   "sem": 0.0034,
+   "n_sess": 115
+  },
+  {
+   "center": 0.375,
+   "mean": 0.0668,
+   "sem": 0.0034,
+   "n_sess": 115
+  },
+  {
+   "center": 0.4,
+   "mean": 0.068,
+   "sem": 0.0035,
+   "n_sess": 115
+  },
+  {
+   "center": 0.425,
+   "mean": 0.0686,
+   "sem": 0.0034,
+   "n_sess": 115
+  },
+  {
+   "center": 0.45,
+   "mean": 0.0689,
+   "sem": 0.0034,
+   "n_sess": 115
+  },
+  {
+   "center": 0.475,
+   "mean": 0.0698,
+   "sem": 0.0034,
+   "n_sess": 115
+  },
+  {
+   "center": 0.5,
+   "mean": 0.0706,
+   "sem": 0.0034,
+   "n_sess": 115
+  },
+  {
+   "center": 0.525,
+   "mean": 0.0713,
+   "sem": 0.0033,
+   "n_sess": 115
+  },
+  {
+   "center": 0.55,
+   "mean": 0.0713,
+   "sem": 0.0033,
+   "n_sess": 115
+  },
+  {
+   "center": 0.575,
+   "mean": 0.0708,
+   "sem": 0.0033,
+   "n_sess": 115
+  },
+  {
+   "center": 0.6,
+   "mean": 0.0703,
+   "sem": 0.0034,
+   "n_sess": 115
+  },
+  {
+   "center": 0.625,
+   "mean": 0.0702,
+   "sem": 0.0034,
+   "n_sess": 115
+  }
+ ],
+ "stim_aligned_auto": [
+  {
+   "center": 0.075,
+   "mean": 0.2504,
+   "sem": 0.0118,
+   "n_sess": 115
+  },
+  {
+   "center": 0.1,
+   "mean": 0.2571,
+   "sem": 0.0119,
+   "n_sess": 115
+  },
+  {
+   "center": 0.125,
+   "mean": 0.261,
+   "sem": 0.0115,
+   "n_sess": 115
+  },
+  {
+   "center": 0.15,
+   "mean": 0.2615,
+   "sem": 0.0116,
+   "n_sess": 115
+  },
+  {
+   "center": 0.175,
+   "mean": 0.2599,
+   "sem": 0.0117,
+   "n_sess": 115
+  },
+  {
+   "center": 0.2,
+   "mean": 0.2586,
+   "sem": 0.0117,
+   "n_sess": 115
+  },
+  {
+   "center": 0.225,
+   "mean": 0.2578,
+   "sem": 0.0117,
+   "n_sess": 115
+  },
+  {
+   "center": 0.25,
+   "mean": 0.2597,
+   "sem": 0.0118,
+   "n_sess": 115
+  },
+  {
+   "center": 0.275,
+   "mean": 0.2591,
+   "sem": 0.0119,
+   "n_sess": 115
+  },
+  {
+   "center": 0.3,
+   "mean": 0.2612,
+   "sem": 0.0115,
+   "n_sess": 115
+  },
+  {
+   "center": 0.325,
+   "mean": 0.2623,
+   "sem": 0.0114,
+   "n_sess": 115
+  },
+  {
+   "center": 0.35,
+   "mean": 0.2629,
+   "sem": 0.0113,
+   "n_sess": 115
+  },
+  {
+   "center": 0.375,
+   "mean": 0.2625,
+   "sem": 0.0111,
+   "n_sess": 115
+  },
+  {
+   "center": 0.4,
+   "mean": 0.2626,
+   "sem": 0.0106,
+   "n_sess": 115
+  },
+  {
+   "center": 0.425,
+   "mean": 0.2598,
+   "sem": 0.0105,
+   "n_sess": 115
+  },
+  {
+   "center": 0.45,
+   "mean": 0.261,
+   "sem": 0.0104,
+   "n_sess": 115
+  },
+  {
+   "center": 0.475,
+   "mean": 0.2656,
+   "sem": 0.0101,
+   "n_sess": 115
+  },
+  {
+   "center": 0.5,
+   "mean": 0.2674,
+   "sem": 0.0103,
+   "n_sess": 115
+  },
+  {
+   "center": 0.525,
+   "mean": 0.2698,
+   "sem": 0.0105,
+   "n_sess": 115
+  },
+  {
+   "center": 0.55,
+   "mean": 0.2771,
+   "sem": 0.011,
+   "n_sess": 115
+  },
+  {
+   "center": 0.575,
+   "mean": 0.2815,
+   "sem": 0.0111,
+   "n_sess": 115
+  },
+  {
+   "center": 0.6,
+   "mean": 0.2852,
+   "sem": 0.0112,
+   "n_sess": 115
+  },
+  {
+   "center": 0.625,
+   "mean": 0.2854,
+   "sem": 0.0109,
+   "n_sess": 115
+  }
+ ],
+ "LOCKING": {
+  "swing_commit_med": 0.0635,
+  "swing_stim_med": 0.074,
+  "swing_commit>stim_n": 40,
+  "swing_paired_wilcoxon_p": 0.00012,
+  "drop_commit_med": -0.0146,
+  "drop_commit_p": 1.0,
+  "drop_stim_med": -0.044,
+  "drop_stim_p": 1.0,
+  "n_swing": 115,
+  "n_drop_c": 115
+ }
+}

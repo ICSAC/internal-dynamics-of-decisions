@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Downloaded public datasets land in data/. They are large, they belong to the
+# laboratories that collected them, and every one is cited with its accession in
+# the README, so they are fetched rather than vendored. The construction item set
+# IS ours and IS tracked.
+data/*
+!data/construction_items.json

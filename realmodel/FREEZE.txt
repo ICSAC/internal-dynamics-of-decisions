@@ -1,0 +1,14 @@
+FREEZE — real-model across-token commitment-attractor test (v3: + powered generation run)
+Frozen 2026-06-30. Metric = the paper's own demix throughout. Amendments were power/validity
+fixes documented in the PREREG before their results; no metric-hunting.
+Environment identifiers (an internal host name and file paths) were removed for public release;
+no metric, window, model, decision rule, computation, or result was changed. The pre-registration
+manifest is registered to an external immutable timestamp (OSF or a public git tag) at submission,
+which is what establishes the "before results" ordering.
+
+2efdf3a67fa97721164eed25ade6addfe48d266d1d35b19d1a291adfa3a67cde  PREREG-REALMODEL-ACROSSTOKEN.md
+6d77b973cdc0d141c2eeb592b6a2cb1bacb065c7ebfdf2ce825b397efdbd9d24  realmodel_across_token.py
+9f3b6fc7e37b8c5c3dd12d4d5fca427379a465c72118b547486a2d1912843aa2  realmodel_gen_attractor.py
+ff20e962cb9ac9f358707933193e8857384460803474b661259a281e21bb50fe  realmodel_gen_powered.py
+8c998aa130eb3bd0a6ccb2e8dffa8e4b6b3dfb2b61d7e80b5e0a248cf14fa6c0  demix.py
+489683b60fb7332edd1fc2444134ddabde2c15049272fc3818fcc05b43f5be2e  construction_items.json

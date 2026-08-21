@@ -1,0 +1,64 @@
+{
+ "generated": "2026-06-30",
+ "instrument": "SubspaceDMDc(N4SID) autonomous dom|lambda| + variance-partition auto_unique = R2(x'|x,u)-R2(x'|u)",
+ "brain_ofc": {
+  "n_sess": 164,
+  "r2_input_inf": 0.1043,
+  "auto_unique_inf": 0.7277,
+  "d_auto_unique_med": 0.0089,
+  "d_auto_unique_wilcox_p": 1e-06,
+  "d_sdmdc_dom_med": 0.0041,
+  "d_sdmdc_dom_wilcox_p": 0.00584,
+  "d_plain_dom_med": 0.008,
+  "d_r2_input_med": -0.0023
+ },
+ "brain_neupane_EC": {
+  "n_sess": 14,
+  "r2_input_inf": 0.0024,
+  "auto_unique_inf": 0.2448,
+  "d_auto_unique_med": 0.0353,
+  "d_auto_unique_greater_p": 0.0453
+ },
+ "models": {
+  "Qwen1.5B": {
+   "r2_input_mean": 0.503,
+   "auto_unique_mean": 0.273,
+   "d_auto_unique_mean": -0.0127,
+   "d_auto_unique_commitL": -0.0426,
+   "n_layers_pos": 1,
+   "n_layers": 6
+  },
+  "Qwen2.5-3B-Instruct": {
+   "r2_input_mean": 0.51,
+   "auto_unique_mean": 0.265,
+   "d_auto_unique_mean": -0.0307,
+   "d_auto_unique_commitL": -0.1009,
+   "n_layers_pos": 1,
+   "n_layers": 6
+  },
+  "Qwen2.5-7B-Instruct": {
+   "r2_input_mean": 0.483,
+   "auto_unique_mean": 0.332,
+   "d_auto_unique_mean": -0.0442,
+   "d_auto_unique_commitL": -0.0667,
+   "n_layers_pos": 0,
+   "n_layers": 6
+  },
+  "Llama-3.1-8B-Instruct": {
+   "r2_input_mean": 0.534,
+   "auto_unique_mean": 0.271,
+   "d_auto_unique_mean": 0.038,
+   "d_auto_unique_commitL": 0.0023,
+   "n_layers_pos": 6,
+   "n_layers": 6
+  },
+  "gemma-2-9b-it": {
+   "r2_input_mean": 0.559,
+   "auto_unique_mean": 0.295,
+   "d_auto_unique_mean": -0.0694,
+   "d_auto_unique_commitL": -0.1045,
+   "n_layers_pos": 0,
+   "n_layers": 6
+  }
+ }
+}

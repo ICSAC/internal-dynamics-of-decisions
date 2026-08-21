@@ -1,0 +1,138 @@
+{
+ "task": "primary",
+ "alpha": 0.05,
+ "inclusion": {
+  "n_ge90": 36,
+  "mean": 0.9462,
+  "lo": 0.9262,
+  "hi": 0.9662
+ },
+ "n_included": 36,
+ "excluded_by_accuracy": [],
+ "family_counts": {
+  "recurrent": 18,
+  "feedforward": 18
+ },
+ "PRIMARY_dsdmdc_own": {
+  "p": 0.0013955829466462532,
+  "U": 257.0,
+  "n_rec": 18,
+  "n_ff": 18,
+  "med_rec": 0.051192819639570564,
+  "med_ff": 0.010383238210187051,
+  "mean_rec": 0.056993041012606986,
+  "mean_ff": 0.011388717898839242,
+  "ci_mean_diff": [
+   0.0221,
+   0.0696
+  ]
+ },
+ "COPRIMARY_auto_unique": {
+  "p": 0.1375194966004546,
+  "U": 197.0,
+  "n_rec": 18,
+  "n_ff": 18,
+  "med_rec": 0.7025515645223575,
+  "med_ff": 0.6779259408567755,
+  "mean_rec": 0.6985854426963469,
+  "mean_ff": 0.6518753036641332,
+  "ci_mean_diff": [
+   -0.0041,
+   0.1002
+  ]
+ },
+ "PRIMARY_dsdmdc_io_robustness": {
+  "p": 0.13068258795308318,
+  "U": 198.0,
+  "n_rec": 18,
+  "n_ff": 18,
+  "med_rec": 0.052523891745634266,
+  "med_ff": 0.009805391493933224,
+  "mean_rec": 0.04037024664043573,
+  "mean_ff": 0.016251501936444854,
+  "ci_mean_diff": [
+   -0.0033,
+   0.0505
+  ]
+ },
+ "SECONDARIES_holm": {
+  "dflow_balance(rec>ff)": {
+   "p": 2.7426826898812736e-05,
+   "U": 290.0,
+   "n_rec": 18,
+   "n_ff": 18,
+   "med_rec": 0.07418370932461427,
+   "med_ff": 0.035095717353534506,
+   "mean_rec": 0.08788270751777695,
+   "mean_ff": 0.040355979342289815,
+   "ci_mean_diff": [
+    0.0318,
+    0.0633
+   ],
+   "p_holm": 8.228048069643821e-05
+  },
+  "settling_speed(rec<ff)": {
+   "p": 0.002315391428681214,
+   "U": 72.0,
+   "n_rec": 18,
+   "n_ff": 18,
+   "med_rec": 0.5189098760169547,
+   "med_ff": 1.2085694955237172,
+   "mean_rec": 0.7380281838824211,
+   "mean_ff": 2.293169651451783,
+   "ci_mean_diff": [
+    -2.4304,
+    -0.7679
+   ],
+   "p_holm": 0.004630782857362428
+  },
+  "rollout_mse(rec<ff)": {
+   "p": 0.20989538402302071,
+   "U": 136.0,
+   "n_rec": 18,
+   "n_ff": 18,
+   "med_rec": 0.20363208653116838,
+   "med_ff": 0.19381961817987003,
+   "mean_rec": 0.20172431232382476,
+   "mean_ff": 0.28459210324409107,
+   "ci_mean_diff": [
+    -0.1584,
+    -0.0128
+   ],
+   "p_holm": 0.20989538402302071
+  }
+ },
+ "triviality": {
+  "median_pre_disp": 0.929,
+  "eps": 0.0464,
+  "frozen_nets": [],
+  "primary_excluding_frozen": {
+   "p": 0.0013955829466462532,
+   "U": 257.0,
+   "n_rec": 18,
+   "n_ff": 18,
+   "med_rec": 0.051192819639570564,
+   "med_ff": 0.010383238210187051,
+   "mean_rec": 0.056993041012606986,
+   "mean_ff": 0.011388717898839242,
+   "ci_mean_diff": [
+    0.0221,
+    0.0696
+   ]
+  }
+ },
+ "arch_level_corroboration": {
+  "rec_arch_means": [
+   0.0227,
+   0.0386,
+   0.1097
+  ],
+  "ff_arch_means": [
+   0.0081,
+   0.0388,
+   -0.0127
+  ],
+  "direction": "rec>ff"
+ },
+ "VERDICT": "(a) PRIMARY CONFIRMS \u2014 instrument diagnoses architecture under matched computation"
+}

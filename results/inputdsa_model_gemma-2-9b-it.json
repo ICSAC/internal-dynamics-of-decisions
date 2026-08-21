@@ -1,0 +1,120 @@
+{
+ "model": "google/gemma-2-9b-it",
+ "n_layers": 43,
+ "K": 12,
+ "R": 8,
+ "RU": 8,
+ "n_delays": 3,
+ "n_inf": 40,
+ "n_ctl": 40,
+ "layers": {
+  "frac0.4": {
+   "L": 16,
+   "auto_unique_inf": 0.2463,
+   "auto_unique_ctl": 0.2916,
+   "d_auto_unique": -0.0453,
+   "d_auto_CI95": [
+    -0.0799,
+    -0.0183
+   ],
+   "frac_boot_pos": 0.0,
+   "r2_input_inf": 0.6243,
+   "r2_input_ctl": 0.5299,
+   "d_r2_input": 0.0943,
+   "r2_full_inf": 0.8706,
+   "r2_full_ctl": 0.8215,
+   "sdmdc_dom_inf": 1.8124,
+   "sdmdc_dom_ctl": 0.925
+  },
+  "frac0.5": {
+   "L": 21,
+   "auto_unique_inf": 0.2747,
+   "auto_unique_ctl": 0.2989,
+   "d_auto_unique": -0.0242,
+   "d_auto_CI95": [
+    -0.0572,
+    0.0089
+   ],
+   "frac_boot_pos": 0.07,
+   "r2_input_inf": 0.5877,
+   "r2_input_ctl": 0.4773,
+   "d_r2_input": 0.1104,
+   "r2_full_inf": 0.8624,
+   "r2_full_ctl": 0.7762,
+   "sdmdc_dom_inf": 2.7894,
+   "sdmdc_dom_ctl": 0.8994
+  },
+  "frac0.6": {
+   "L": 25,
+   "auto_unique_inf": 0.3012,
+   "auto_unique_ctl": 0.363,
+   "d_auto_unique": -0.0617,
+   "d_auto_CI95": [
+    -0.0897,
+    -0.0351
+   ],
+   "frac_boot_pos": 0.0,
+   "r2_input_inf": 0.5857,
+   "r2_input_ctl": 0.4958,
+   "d_r2_input": 0.0899,
+   "r2_full_inf": 0.8869,
+   "r2_full_ctl": 0.8587,
+   "sdmdc_dom_inf": 2.3566,
+   "sdmdc_dom_ctl": 0.8862
+  },
+  "frac0.7": {
+   "L": 29,
+   "auto_unique_inf": 0.2734,
+   "auto_unique_ctl": 0.3773,
+   "d_auto_unique": -0.1039,
+   "d_auto_CI95": [
+    -0.1294,
+    -0.0799
+   ],
+   "frac_boot_pos": 0.0,
+   "r2_input_inf": 0.6256,
+   "r2_input_ctl": 0.4906,
+   "d_r2_input": 0.135,
+   "r2_full_inf": 0.899,
+   "r2_full_ctl": 0.8679,
+   "sdmdc_dom_inf": 1.3699,
+   "sdmdc_dom_ctl": 0.9718
+  },
+  "frac0.8": {
+   "L": 33,
+   "auto_unique_inf": 0.2525,
+   "auto_unique_ctl": 0.3295,
+   "d_auto_unique": -0.077,
+   "d_auto_CI95": [
+    -0.113,
+    -0.046
+   ],
+   "frac_boot_pos": 0.0,
+   "r2_input_inf": 0.641,
+   "r2_input_ctl": 0.4776,
+   "d_r2_input": 0.1634,
+   "r2_full_inf": 0.8935,
+   "r2_full_ctl": 0.8071,
+   "sdmdc_dom_inf": 1.5613,
+   "sdmdc_dom_ctl": 0.9825
+  },
+  "frac0.9": {
+   "L": 37,
+   "auto_unique_inf": 0.2143,
+   "auto_unique_ctl": 0.3188,
+   "d_auto_unique": -0.1045,
+   "d_auto_CI95": [
+    -0.133,
+    -0.0827
+   ],
+   "frac_boot_pos": 0.0,
+   "r2_input_inf": 0.6759,
+   "r2_input_ctl": 0.4907,
+   "d_r2_input": 0.1852,
+   "r2_full_inf": 0.8903,
+   "r2_full_ctl": 0.8095,
+   "sdmdc_dom_inf": 3.3294,
+   "sdmdc_dom_ctl": 0.8805
+  }
+ }
+}

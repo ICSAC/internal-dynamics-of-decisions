@@ -1,0 +1,13 @@
+{
+ "model": "google/gemma-2-9b-it",
+ "n_items": 6,
+ "G": 48,
+ "W": 8,
+ "FIND": 8,
+ "R": 8,
+ "RU": 8,
+ "NDELAYS": 1,
+ "seed": 20260630,
+ "depths": {},
+ "saved": {}
+}
