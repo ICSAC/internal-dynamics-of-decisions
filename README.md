@@ -1,4 +1,4 @@
-# Recurrent-versus-input dynamics of decision commitment across cortex and language models
+# Recurrent-versus-input dynamics of decision commitment across cortex and AI models
 
 **Code accompanying the preprint:** Thornhill NM (2026). *The Internal Dynamics of Decisions:
 From rats and primates to AI.* Preprints.org.
@@ -16,7 +16,7 @@ maintained copy. The preprint is the citable record of the study; cite it, not t
 The deposited version of record does not link back here, so this direction is the only one.
 
 Analysis code and result files for the study comparing the dynamics of constructing and
-committing to an answer in cortical populations and in transformer language models, using a
+committing to an answer in cortical populations and in transformer-based AI models, using a
 recurrent-versus-input demix (subspace state-space identification, N4SID / SubspaceDMDc).
 
 The pipeline asks, on the same footing in both substrates, how much of a population's
@@ -102,7 +102,7 @@ per-session population trajectories with the corresponding `extract_*` script, t
 | Rat orbitofrontal cortex (value-based decisions / state inference) | Zenodo accession 16997337 (Schiereck et al., *Neuron* 2026, doi:10.1016/j.neuron.2025.10.024) |
 | Primate entorhinal cortex (mental navigation) | DANDI:000897 (Neupane, Fiete, Jazayeri, *Nature* 2024, doi:10.1038/s41586-024-07557-z) |
 | Perceptual-decision Neuropixels + per-trial commitment times | Dryad doi:10.5061/dryad.sj3tx96dm and github.com/Brody-Lab/decision_dynamics_commitment (Luo et al., *Nature* 2025, doi:10.1038/s41586-025-09528-4) |
-| Language models | Hugging Face: Qwen/Qwen2.5-{1.5B,3B,7B}-Instruct; meta-llama/Llama-3.1-8B-Instruct; google/gemma-2-9b-it |
+| AI models | Hugging Face: Qwen/Qwen2.5-{1.5B,3B,7B}-Instruct; meta-llama/Llama-3.1-8B-Instruct; google/gemma-2-9b-it |
 | Construction-task items | `data/construction_items.json` (included; `landmark` = inference, `var_filler` = matched control) |
 
 The subspace demix is from the InputDSA / DSA toolbox (Huang et al. 2025; Ostrow et al. 2023).
